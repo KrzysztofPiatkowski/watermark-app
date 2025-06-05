@@ -1,0 +1,14 @@
+{
+  "name": "a",
+  "version": "a",
+  "description": "a",
+  "main": "a",
+  "repository": "a",
+  "author": "a",
+  "license": "a",
+  "private": null,
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
